@@ -13,8 +13,8 @@ To Write a python program for the implementation of merge sort on the given list
 ```
 /*
 Program to implement Merge Sort
-Developed by: Koti Sai Sankar
-Register Number: 212222240111
+Developed by: Alluguri Srikrishna Teja
+Register Number: 212222040006
 */
 ```
 ```
