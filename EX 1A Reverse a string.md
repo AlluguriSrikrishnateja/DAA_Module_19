@@ -18,8 +18,8 @@ To use recursion to write a Python function for determining if a string has more
 ```
 /*
 Program to write a Python function for determining if a string has more vowels than consonants 
-Developed by: Koti Sai Sankar
-Register Number:  212222240111
+Developed by: Alluguri Sri krishna Teja
+Register Number:  212222040006
 */
 ```
 ```
